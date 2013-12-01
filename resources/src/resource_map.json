@@ -40,6 +40,11 @@
             "type": "font",
             "file": "fonts/Roboto-Condensed.ttf"
         },
+	{
+            "defName": "FONT_ROBOTO_CONDENSED_28",
+            "type": "font",
+            "file": "fonts/Roboto-Condensed.ttf"
+        },
         {
             "characterRegex": "[:0-9]",
             "defName": "FONT_ROBOTO_BOLD_SUBSET_49",
