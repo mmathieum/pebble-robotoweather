@@ -1,5 +1,44 @@
 {
     "media": [
+	{
+            "defName": "FONT_ROBOTO_CONDENSED_REGULAR_20",
+            "type": "font",
+            "file": "fonts/RobotoCondensed-Regular.ttf"
+        },
+	{
+            "defName": "FONT_ROBOTO_CONDENSED_REGULAR_40",
+            "type": "font",
+            "file": "fonts/RobotoCondensed-Regular.ttf"
+        },
+	{
+            "defName": "FONT_ROBOTO_CONDENSED_LIGHT_40",
+            "type": "font",
+            "file": "fonts/RobotoCondensed-Light.ttf"
+        },
+	{
+            "characterRegex": "[:0-9]",
+            "defName": "FONT_ROBOTO_REGULAR_SUBSET_50",
+            "type": "font",
+            "file": "fonts/Roboto-Regular.ttf"
+        },
+        {
+            "characterRegex": "[:0-9]",
+            "defName": "FONT_ROBOTO_BOLD_SUBSET_50",
+            "type": "font",
+            "file": "fonts/Roboto-Bold.ttf"
+        },
+        {
+            "characterRegex": "[:0-9]",
+            "defName": "FONT_ROBOTO_THIN_SUBSET_50",
+            "type": "font",
+            "file": "fonts/Roboto-Thin.ttf"
+        },
+        {
+            "characterRegex": "[:0-9]",
+            "defName": "FONT_ROBOTO_LIGHT_SUBSET_50",
+            "type": "font",
+            "file": "fonts/Roboto-Light.ttf"
+        },
         {
             "defName": "ICON_HOT",
             "type": "png",
@@ -34,34 +73,6 @@
             "defName": "IMAGE_MENU_ICON",
             "type": "png",
             "file": "images/menu_icon_roboto.png"
-        },
-        {
-            "defName": "FONT_ROBOTO_CONDENSED_21",
-            "type": "font",
-            "file": "fonts/Roboto-Condensed.ttf"
-        },
-	{
-            "defName": "FONT_ROBOTO_CONDENSED_28",
-            "type": "font",
-            "file": "fonts/Roboto-Condensed.ttf"
-        },
-        {
-            "characterRegex": "[:0-9]",
-            "defName": "FONT_ROBOTO_BOLD_SUBSET_49",
-            "type": "font",
-            "file": "fonts/Roboto-Bold.ttf"
-        },
-        {
-            "characterRegex": "[:0-9]",
-            "defName": "FONT_ROBOTO_THIN_SUBSET_49",
-            "type": "font",
-            "file": "fonts/Roboto-Thin.ttf"
-        },
-        {
-            "characterRegex": "[:0-9]",
-            "defName": "FONT_ROBOTO_LIGHT_SUBSET_49",
-            "type": "font",
-            "file": "fonts/Roboto-Light.ttf"
         },
         {
             "defName": "ICON_CLEAR_DAY",
@@ -117,13 +128,6 @@
             "defName": "ICON_WIND",
             "type": "png",
             "file": "images/wind.png"
-        },
-        {
-            "trackingAdjust": -4,
-            "characterRegex": "[0-9:\u00b0-]",
-            "defName": "FUTURA_40",
-            "type": "font",
-            "file": "fonts/futura.ttf"
         }
     ],
     "friendlyVersion": "VERSION",
